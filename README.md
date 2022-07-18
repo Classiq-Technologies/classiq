@@ -1,12 +1,10 @@
-<p align="center">
-  <a href="https://www.classiq.io">
-    <img src="https://uploads-ssl.webflow.com/60000db7a5f449af5e4590ac/6122b22eea7a9583a5c0d560_classiq_RGB_Green_with_margin.png" alt="Classiq">
-  </a>
-</p>
-
 <div align="center">
 
-[![view - Documentation](https://img.shields.io/badge/view-Documentation-d7f75b?style=for-the-badge)](https://docs.classiq.io/)
+[![Classiq](https://uploads-ssl.webflow.com/60000db7a5f449af5e4590ac/6122b22eea7a9583a5c0d560_classiq_RGB_Green_with_margin.png)](https://www.classiq.io/)
+
+[![view - Documentation](https://img.shields.io/badge/view-Documentation-119da4?style=for-the-badge)](https://docs.classiq.io/)
+&nbsp;
+[![visit - Platform](https://img.shields.io/badge/visit-Platform-f43764?style=for-the-badge)](https://platform.classiq.io/)
 
 </div>
 
