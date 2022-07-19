@@ -4,6 +4,7 @@
 
 [![view - Documentation](https://img.shields.io/badge/view-Documentation-119da4?style=for-the-badge)](https://docs.classiq.io/)
 &nbsp;
+&nbsp;
 [![visit - Platform](https://img.shields.io/badge/visit-Platform-f43764?style=for-the-badge)](https://platform.classiq.io/)
 
 </div>
